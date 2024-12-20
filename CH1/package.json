@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
